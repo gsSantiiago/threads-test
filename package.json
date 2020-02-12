@@ -1,7 +1,7 @@
 {
   "name": "threads-test",
   "version": "1.0.0",
-  "description": "Tests with node threads",
+  "description": "Tests with node 'worker_threads'",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js"
